@@ -76,6 +76,7 @@ public class Student {
         System.out.println(student1.toString());
         removeStudent(student3);
         System.out.println(student3.toString());
+        student2.getName();
 
     }
 
